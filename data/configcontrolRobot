@@ -1,0 +1,7 @@
+Control para brazo Robotico
+downi	di	3	SLIDER	Eje Y	0	1.0	0.0
+righti	ri	3	SLIDER	Eje X	0	1.0	0.0
+downd	dd	3	SLIDER	Rotación Z	0	1.0	0.0
+rightd	rd	3	SLIDER	Eje Z	0	1.0	0.0
+gatilloi	gi	3	SLIDER	Rotación X	0	1.0	0.0
+gatillod	gd	3	SLIDER	Rotación Y	0	1.0	0.0

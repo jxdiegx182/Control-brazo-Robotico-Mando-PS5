@@ -1,0 +1,13 @@
+configcontrolRobot2
+righti	ri	3	SLIDER	Eje X	0	1.0	0.0
+downi	di	3	SLIDER	Eje Y	0	1.0	0.0
+rightd	rd	3	SLIDER	Eje Z	0	1.0	0.0
+downd	dd	3	SLIDER	Rotación Z	0	1.0	0.0
+gatilloi	l2	3	SLIDER	Rotación X	0	1.0	0.0
+gatillod	r2	3	SLIDER	Rotación Y	0	1.0	0.0
+x	x	1	BUTTON	Botón 1	0	0.0	0.0
+o	o	1	BUTTON	Botón 2	0	0.0	0.0
+c	cuadrado	1	BUTTON	Botón 0	0	0.0	0.0
+t	triangulo	1	BUTTON	Botón 3	0	0.0	0.0
+l1	l1	1	BUTTON	Botón 4	0	0.0	0.0
+r1	r1	1	BUTTON	Botón 5	0	0.0	0.0
